@@ -11,3 +11,7 @@
 ###### numpy.matrix to numpy.array => https://stackoverflow.com/questions/3337301/numpy-matrix-to-array
 
 ###### nice tutorial of plotting => https://www.southampton.ac.uk/~feeg1001/notebooks/Matplotlib.html
+
+## numerical problem
+
+###### Log(0) => https://forum.onefourthlabs.com/t/runtimewarning-divide-by-zero-encountered-in-log/6792/2
